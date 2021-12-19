@@ -1,0 +1,16 @@
+{
+    "Student":
+    [
+        {
+            "Name":"Eldrin Gurung",
+            "Roll no":19,
+            "Faculty":"Computer"
+
+        },
+        {
+"Name":"Ajay Poudel",
+"Roll no":12,
+"Faculty":"Civil"
+        }
+    ]
+}
